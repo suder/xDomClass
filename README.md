@@ -1,7 +1,5 @@
 # Работа с классами на чистом JavaScript
 
-[![Code Climate](https://codeclimate.com/repos/56c1a5c428695002ec005269/badges/3e4f2b1e6b637567db82/gpa.svg)](https://codeclimate.com/repos/56c1a5c428695002ec005269/feed)
-
 *hasClass(), addClass(), removeClass(), toggleClass() - pure JavaScript*
 
 Само собой, подобных решений представлено огромное количество, но подумал, что надо бы начать наконец заполнять гитхаб. Пусть лежит.
